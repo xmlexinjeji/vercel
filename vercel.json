@@ -6,6 +6,9 @@
       "destination": "/api/frameworks"
     },
     {
+     "outputDirectory": "build"
+   },
+    {
       "source": "/api/v1/frameworks",
       "destination": "/api/frameworks"
     },
